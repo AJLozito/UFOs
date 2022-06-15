@@ -9,10 +9,10 @@ The webpage wouldn’t load, so no conclusion could be drawn. Multiple attempts 
 
 Images:
 
-app.js
+- app.js
 ![image](https://user-images.githubusercontent.com/96176817/173941286-b37fda1e-8954-411f-a3c8-1ce37eed71ea.png)
 
-data.js
+- data.js
 ![image](https://user-images.githubusercontent.com/96176817/173941313-0a14b0eb-c698-4b69-9d56-319c00739bcf.png)
 
 Summary:
